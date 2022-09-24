@@ -1,0 +1,29 @@
+//Based in chrome's responsive design feature
+
+//Mobile S
+@media only screen and (min-width: 0px) and (max-width: 321px) {
+}
+
+//Mobile M
+@media only screen and (min-width: 321px) and (max-width: 376px) {
+}
+
+//Mobile L
+@media only screen and (min-width: 376px) and (max-width: 426px) {
+}
+
+//Tablet
+@media only screen and (min-width: 427px) and (max-width: 769px) {
+}
+
+//Laptop
+@media only screen and (min-width: 770px) and (max-width: 1025px) {
+}
+
+//Laptop L
+@media only screen and (min-width: 1026px) and (max-width: 1441px) {
+}
+
+//4k
+@media only screen and (min-width: 1441px) {
+}

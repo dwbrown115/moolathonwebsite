@@ -1,0 +1,8 @@
+export { default as Contact } from "./Contact"
+export { default as Download } from "./Download"
+export { default as Events } from "./Events"
+export { default as FAQ } from "./FAQ"
+export { default as Hero } from "./Hero"
+export { default as Moolathon } from "./Moolathon"
+export { default as Pricing } from "./Pricing"
+export { default as Sponsorship } from "./Sponsorship"
